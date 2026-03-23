@@ -1,13 +1,13 @@
 # Exam-Seating-Arrangement
 # Exam Seating Arrangement Checker (Java)
 
-## 📌 Overview
+##  Overview
 
 This is a Java console-based application that manages exam seating arrangements by assigning students to seats based on their roll numbers. The system ensures that no seat is assigned more than once and organizes students into two classrooms.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Add student using roll number and name
 * Automatic classroom allocation:
@@ -21,7 +21,7 @@ This is a Java console-based application that manages exam seating arrangements 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Java (Core Java)
 * Arrays
@@ -50,21 +50,7 @@ This is a Java console-based application that manages exam seating arrangements 
 
 ---
 
-## ▶️ How to Run
 
-### Compile:
-
-```
-javac ExamSeating.java
-```
-
-### Run:
-
-```
-java ExamSeating
-```
-
----
 
 ## 📋 Example
 
