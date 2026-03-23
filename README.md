@@ -31,7 +31,7 @@ This is a Java console-based application that manages exam seating arrangements 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User selects an option from the menu:
 
@@ -52,7 +52,7 @@ This is a Java console-based application that manages exam seating arrangements 
 
 
 
-## 📋 Example
+##  Example
 
 ```
 1. Add Student
@@ -67,7 +67,7 @@ Assigned Seat 5 in Classroom 1
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Supports only 20 students
 * Fixed two classrooms
@@ -76,7 +76,7 @@ Assigned Seat 5 in Classroom 1
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Dynamic student limit
 * GUI using Java Swing/JavaFX
